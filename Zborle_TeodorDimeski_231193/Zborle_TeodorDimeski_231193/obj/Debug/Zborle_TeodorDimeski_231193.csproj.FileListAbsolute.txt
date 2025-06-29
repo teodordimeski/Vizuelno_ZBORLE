@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Zborle_TeodorDimeski_231193\Zborle_TeodorDimeski_231193\bin\Debug\Zborle_TeodorDimeski_231193.exe.config
+C:\Users\Admin\Desktop\Zborle_TeodorDimeski_231193\Zborle_TeodorDimeski_231193\bin\Debug\Zborle_TeodorDimeski_231193.exe
+C:\Users\Admin\Desktop\Zborle_TeodorDimeski_231193\Zborle_TeodorDimeski_231193\bin\Debug\Zborle_TeodorDimeski_231193.pdb
+C:\Users\Admin\Desktop\Zborle_TeodorDimeski_231193\Zborle_TeodorDimeski_231193\obj\Debug\Zborle_TeodorDimeski_231193.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Zborle_TeodorDimeski_231193\Zborle_TeodorDimeski_231193\obj\Debug\Zborle_TeodorDimeski_231193.Form1.resources
+C:\Users\Admin\Desktop\Zborle_TeodorDimeski_231193\Zborle_TeodorDimeski_231193\obj\Debug\Zborle_TeodorDimeski_231193.Properties.Resources.resources
+C:\Users\Admin\Desktop\Zborle_TeodorDimeski_231193\Zborle_TeodorDimeski_231193\obj\Debug\Zborle_TeodorDimeski_231193.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Zborle_TeodorDimeski_231193\Zborle_TeodorDimeski_231193\obj\Debug\Zborle_TeodorDimeski_231193.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Zborle_TeodorDimeski_231193\Zborle_TeodorDimeski_231193\obj\Debug\Zborle_TeodorDimeski_231193.exe
+C:\Users\Admin\Desktop\Zborle_TeodorDimeski_231193\Zborle_TeodorDimeski_231193\obj\Debug\Zborle_TeodorDimeski_231193.pdb
+C:\Users\Admin\Desktop\Zborle_TeodorDimeski_231193\Zborle_TeodorDimeski_231193\bin\Debug\zborovi.txt
+C:\Users\Admin\Desktop\Zborle_TeodorDimeski_231193\Zborle_TeodorDimeski_231193\obj\Debug\Zborle_TeodorDimeski_231193.GenerateOwnWordForm.resources
+C:\Users\Admin\Desktop\Zborle_TeodorDimeski_231193\Zborle_TeodorDimeski_231193\obj\Debug\Zborle_TeodorDimeski_231193.PlayForm.resources
+C:\Users\Admin\Desktop\Zborle_TeodorDimeski_231193\Zborle_TeodorDimeski_231193\obj\Debug\Zborle_TeodorDimeski_231193.PlayOwnWordForm.resources
+C:\Users\Admin\Desktop\Zborle_TeodorDimeski_231193\Zborle_TeodorDimeski_231193\obj\Debug\Zborle_TeodorDimeski_231193.PlayTimerMode.resources
